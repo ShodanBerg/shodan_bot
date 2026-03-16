@@ -20,3 +20,7 @@ media/gifs/*
 
 .DS_Store
 Thumbs.db
+
+*.env
+*.jpg
+*.png
